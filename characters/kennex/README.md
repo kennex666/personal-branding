@@ -39,7 +39,7 @@ For permission or licensing requests, please contact:
 This work is protected under **international copyright law** and has been  
 **officially registered and verified by DMCA.com.**
 
-[![DMCA Protected](https://images.dmca.com/Badges/dmca-badge-w200-5x1-08.png?ID=g70emr7)](https://www.dmca.com/r/g70emr7)
+[![DMCA Protected](https://images.dmca.com/Badges/dmca-badge-w150-5x1-03.png?ID=be976882-b281-4600-886c-f2dffb163a22)](https://www.dmca.com/Protection/Status.aspx?ID=be976882-b281-4600-886c-f2dffb163a22&refurl=https://pj.dtbao.io.vn/personal-branding/characters/kennex/Kennex.png)
 
 Additional proof of authorship may also be timestamped via **OpenTimestamps**  
 and versioned through **GitHub commits** for technical verification.
