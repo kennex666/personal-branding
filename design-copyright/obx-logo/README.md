@@ -47,14 +47,14 @@ For permission, licensing inquiries, or professional integration, please contact
 
 This work is protected under **international copyright law** and is officially logged under the creator's central IP portfolio. 
 
-DMCA Badges (Pending URLs):
-1. [logo-color-bg-full.png](#)
-2. [logo-color-gradient-full.png](#)
-3. [logo-dev-color-gradient-full.png](#)
-4. [logo-gray-bg-full.png](#)
-5. [logo-color-short.png](#)
-6. [logo-dark-short.png](#)
-7. [logo-dark-bg-short.png](#)
+DMCA Badges:
+1. [logo-color-bg-full.png](https://www.dmca.com/Protection/Status.aspx?ID=be976882-b281-4600-886c-f2dffb163a22&refurl=https://pj.dtbao.io.vn/personal-branding/design-copyright/obx-logo/logo-color-bg-full.png)
+2. [logo-color-gradient-full.png](https://www.dmca.com/r/2y74865)
+3. [logo-dev-color-gradient-full.png](https://www.dmca.com/r/eqjxm2e)
+4. [logo-gray-bg-full.png](https://www.dmca.com/r/9yk7jr7)
+5. [logo-color-short.png](https://www.dmca.com/r/eqjxz3q)
+6. [logo-dark-short.png](https://www.dmca.com/r/7ym4640)
+7. [logo-dark-bg-short.png](https://www.dmca.com/r/eqjxzy5)
 
 To maintain an immutable cryptographic paper trail, authorship and creation timeline integrity are cryptographically secured and verified by:
 1. **GitHub Commit History** (Deterministic Git SHA-1/SHA-256 commit timestamps).

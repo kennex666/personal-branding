@@ -42,9 +42,9 @@ For permission, licensing inquiries, or professional integration, please contact
 
 This work is protected under **international copyright law** and is officially logged under the creator's central IP portfolio. 
 
-DMCA Badge (Pending URLs):
-1. [doome-v1.png](#)
-2. [doome-v2.png](#)
+DMCA Badge:
+1. [doome-v1.png](https://www.dmca.com/r/d1j7pyd)
+2. [doome-v2.png](https://www.dmca.com/r/qklwgr6)
 
 To maintain an immutable cryptographic paper trail, authorship and creation timeline integrity are cryptographically secured and verified by:
 1. **GitHub Commit History** (Deterministic Git SHA-1/SHA-256 commit timestamps).
