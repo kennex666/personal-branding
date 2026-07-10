@@ -48,7 +48,7 @@ For permission, licensing inquiries, or professional integration, please contact
 This work is protected under **international copyright law** and is officially logged under the creator's central IP portfolio. 
 
 DMCA Badges:
-1. [logo-color-bg-full.png](https://www.dmca.com/Protection/Status.aspx?ID=be976882-b281-4600-886c-f2dffb163a22&refurl=https://pj.dtbao.io.vn/personal-branding/design-copyright/obx-logo/logo-color-bg-full.png)
+1. [logo-color-bg-full.png](https://www.dmca.com/r/w8ejq09)
 2. [logo-color-gradient-full.png](https://www.dmca.com/r/2y74865)
 3. [logo-dev-color-gradient-full.png](https://www.dmca.com/r/eqjxm2e)
 4. [logo-gray-bg-full.png](https://www.dmca.com/r/9yk7jr7)
