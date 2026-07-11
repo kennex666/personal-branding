@@ -29,6 +29,8 @@ This work, including all code, assets, and documentation, is the **exclusive int
 
 Any infringement, unauthorized use, or re-publication will be reported and may result in a formal **DMCA Takedown Notice**.
 
+[![DMCA Protected](https://images.dmca.com/Badges/dmca-badge-w150-5x1-03.png?ID=be976882-b281-4600-886c-f2dffb163a22)](https://www.dmca.com/Protection/Status.aspx?ID=be976882-b281-4600-886c-f2dffb163a22&refurl=https://pj.dtbao.io.vn/personal-branding/)
+
 ### 📬 Contact
 
 For permission, licensing inquiries, or verification of rights, please contact:  

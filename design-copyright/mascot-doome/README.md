@@ -54,6 +54,8 @@ To maintain an immutable cryptographic paper trail, authorship and creation time
 2. **OpenTimestamps** (Decentralized Bitcoin blockchain time-stamping protocol).
 3. **Official Copyright Registry Application** (Filed under the Copyright Office of Vietnam / Cục Bản quyền tác giả).
 
+[![DMCA Protected](https://images.dmca.com/Badges/dmca-badge-w150-5x1-03.png?ID=be976882-b281-4600-886c-f2dffb163a22)](https://www.dmca.com/Protection/Status.aspx?ID=be976882-b281-4600-886c-f2dffb163a22&refurl=https%3a%2f%2fpj.dtbao.io.vn%2fpersonal-branding%2fdesign-copyright%2fmascot-doome%2fdoome-normal.png)
+
 ---
 
 ## 🪶 Note

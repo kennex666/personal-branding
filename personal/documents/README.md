@@ -40,7 +40,7 @@ For permission, citation, or licensing inquiries, please contact:
 These works are protected under **international copyright law** and have been  
 **officially registered and verified by DMCA.com.**
 
-[![DMCA Protected](https://images.dmca.com/Badges/dmca-badge-w150-5x1-03.png?ID=be976882-b281-4600-886c-f2dffb163a22)](https://www.dmca.com/Protection/Status.aspx?ID=be976882-b281-4600-886c-f2dffb163a22)
+[![DMCA Protected](https://images.dmca.com/Badges/dmca-badge-w150-5x1-03.png?ID=be976882-b281-4600-886c-f2dffb163a22)](https://www.dmca.com/Protection/Status.aspx?ID=be976882-b281-4600-886c-f2dffb163a22&refurl=https://pj.dtbao.io.vn/personal-branding/)
 
 ---
 
